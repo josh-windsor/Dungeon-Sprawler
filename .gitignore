@@ -32,3 +32,13 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/Decrepit Dungeon LITE/
+Assets/TextMesh Pro/
+Assets/StreamingAssets/
+Assets/Models/Animations/
+Assets/Models/
+Assets/MORPH3D/
+Assets/Resources/Armour/
+Assets/Resources/Weapons/
+Assets/Plugins/
+Assets/Images+Materials/
